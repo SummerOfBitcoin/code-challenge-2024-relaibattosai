@@ -1,1 +1,1 @@
-# Update this file to run your own code
+python script.py
