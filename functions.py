@@ -328,7 +328,7 @@ def construct_block_header_df(STXO, difficulty_target_hex):
                 'previous_block_hash': previous_block_hash,
                 'merkle_root': row['merkle root'],
                 'current_time': current_time,
-                'bits': '0x22000000',  # Assuming a fixed difficulty for demonstration
+                'bits': '22000000',  # Assuming a fixed difficulty for demonstration
                 'nonce': nonce
             }
 
